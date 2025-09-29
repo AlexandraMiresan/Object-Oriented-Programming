@@ -1,0 +1,13 @@
+Tech Conference,A conference about the latest in tech.,2025-05-10,9.3,300,https://techconf2025.com
+Music Festival,Annual summer music festival with live bands.,2025-07-20,17,1500,https://summerbeats.com
+Art Exhibition,Contemporary art from local artists.,2025-06-15,14,200,https://artshow2025.org
+Startup Pitch Night,Startups pitch to investors.,2025-05-12,18.3,100,https://startupnight.com
+Gaming Expo,Explore new games and meet developers.,2025-08-05,10,500,https://gameexpo.net
+Literature Fair,Meet your favorite authors and attend workshops.,2025-09-10,11,250,https://litfair.com
+Food Truck Fiesta,Enjoy gourmet food from around the city.,2025-06-01,12.5,800,https://foodfiesta.com
+Science Symposium,Presentations from leading scientists.,2025-10-03,9,400,https://scisymp2025.org
+Film Screening,Night screening of indie short films.,2025-05-25,20,180,https://shortfilmsnight.net
+Marathon Day,Annual charity marathon event.,2025-11-01,7,1000,https://marathon2025.org
+Photography Workshop,Learn photography techniques with pros.,2025-08-15,13,60,https://photoworkshop.org
+Fashion Show,Latest fashion trends revealed.,2025-07-05,16,300,https://fashionshowlive.com
+Board Game Night,Relax with friends and classic games.,2025-06-20,19,120,https://boardnight.com
