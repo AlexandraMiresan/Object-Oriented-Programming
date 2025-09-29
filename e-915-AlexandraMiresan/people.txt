@@ -1,0 +1,4 @@
+Ana,3,4,5,6,true
+Andrei,9,8,7,8,true
+Matei,7,9,8,9,false
+Andreea,100,100,100,100,false
