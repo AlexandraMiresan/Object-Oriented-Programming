@@ -1,0 +1,4 @@
+Department: NeonatalUnit, Hospital name: Policlinica,number of doctors: 13,average grade: 9.500000- isEfficient?1
+Department: Surgery, Hospital name: Regina Maria ,number of doctors: 20 ,number of patients: 120 -isEfficient?1
+Department: Surgery, Hospital name: Sanovil ,number of doctors: 40 ,number of patients: 300 -isEfficient?1
+Department: NeonatalUnit, Hospital name: TYB,number of doctors: 12,average grade: 4.000000- isEfficient?0
