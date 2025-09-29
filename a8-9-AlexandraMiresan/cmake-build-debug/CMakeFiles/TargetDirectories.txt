@@ -1,0 +1,5 @@
+C:/Users/Ale/Desktop/Facultyy/OOP/Laboratories/a8-9-AlexandraMiresan/cmake-build-debug/CMakeFiles/a8_9_AlexandraMiresan.dir
+C:/Users/Ale/Desktop/Facultyy/OOP/Laboratories/a8-9-AlexandraMiresan/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ale/Desktop/Facultyy/OOP/Laboratories/a8-9-AlexandraMiresan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Ale/Desktop/Facultyy/OOP/Laboratories/a8-9-AlexandraMiresan/cmake-build-debug/CMakeFiles/a8_9_AlexandraMiresan_autogen_timestamp_deps.dir
+C:/Users/Ale/Desktop/Facultyy/OOP/Laboratories/a8-9-AlexandraMiresan/cmake-build-debug/CMakeFiles/a8_9_AlexandraMiresan_autogen.dir

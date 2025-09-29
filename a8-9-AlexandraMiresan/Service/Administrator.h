@@ -1,0 +1,44 @@
+#ifndef ADMINISTRATOR_H
+#define ADMINISTRATOR_H
+
+#include "../Repository/EventList.h"
+#include "../Repository/Repository.h"
+#include "../Domain/Event.h"
+
+class Administrator {
+private:
+    Repository* repo;
+    EventList *eventList;
+
+public:
+    explicit Administrator(Repository* r) : repo(r) {}
+
+    // Add event
+    void addEventAdmin(std::string title, std::string description, std::chrono::year_month_day date,
+                       double time, int numberOfPeople, std::string link);
+
+    // Remove event
+    int removeEventAdmin(int id);
+
+    void saveToFile() {
+        this->repo->saveToFile();
+    }
+
+    // Update individual fields of event
+    int updateTitleAdmin(int id, std::string title);
+    int updateDescriptionAdmin(int id, std::string description);
+    int updateDateAdmin(int id, std::chrono::year_month_day date);
+    int updateTimeAdmin(int id, double time);
+    int updateNumberOfPeopleAdmin(int id, int numberOfPeople);
+    int updateLinkAdmin(int id, std::string link);
+
+    // Update entire event
+    int updateEventAdmin(int id, std::string title, std::string description,
+                         std::chrono::year_month_day date, double time,
+                         int numberOfPeople, std::string link);
+
+    // Get all events in the repository
+    std::vector<Event>& getAllEventsAdmin(){ return this->repo->getRepo(); }
+};
+
+#endif // ADMINISTRATOR_H
