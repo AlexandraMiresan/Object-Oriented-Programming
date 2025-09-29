@@ -1,0 +1,3 @@
+/mnt/c/Users/Ale/Desktop/Facultyy/OOP/Laboratories/a2-AlexandraMiresan-1/cmake-build-debug/CMakeFiles/a2_AlexandraMiresan_1.dir
+/mnt/c/Users/Ale/Desktop/Facultyy/OOP/Laboratories/a2-AlexandraMiresan-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Ale/Desktop/Facultyy/OOP/Laboratories/a2-AlexandraMiresan-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

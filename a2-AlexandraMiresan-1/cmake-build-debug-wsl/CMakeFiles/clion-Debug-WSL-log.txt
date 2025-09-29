@@ -1,0 +1,6 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /mnt/c/Users/Ale/Desktop/Facultyy/OOP/Laboratories/a2-AlexandraMiresan-1 -B /mnt/c/Users/Ale/Desktop/Facultyy/OOP/Laboratories/a2-AlexandraMiresan-1/cmake-build-debug-wsl
+CMake Error at CMakeLists.txt:1 (cmake_minimum_required):
+  CMake 3.29 or higher is required.  You are running version 3.28.3
+
+
+-- Configuring incomplete, errors occurred!
