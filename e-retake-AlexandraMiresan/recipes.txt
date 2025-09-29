@@ -1,0 +1,4 @@
+Curry,Indian,120,chicken|yogurt|spices|
+Pizza,Italian,40,dough|sauce|cheese|
+Taco,Mexican,60,meat|taco shell|
+nachos,Mexican,20,meat|cheese|
